@@ -4,6 +4,11 @@
  * 기능: 컴포넌트를 간편하고 빠르게 개발할 수 있는 스타일링 기능 구현
  */
 
-export const Swiper = () => {
-    
-}
+import styled from "styled-components";
+
+export const Container = styled.div<{
+    width: string,
+    height?: string
+}>`
+    width: ${(props) => props.width}px;
+`
