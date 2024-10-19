@@ -1,12 +1,22 @@
 [
     {
-      "id": 1,
-      "title": "강릉 여행",
-      "imageurl": "/강릉여행.jpg"
+        "id": 1,
+        "title": "강릉 여행",
+        "imageurl": "/강릉여행.jpg"
     },
     {
-      "id": 2,
-      "title": "속초 여행",
-      "imageurl": "/속초여행.jpg"
+        "id": 2,
+        "title": "속초 여행",
+        "imageurl": "/속초여행.jpg"
+    },
+    {
+        "id": 3,
+        "title": "부산 여행",
+        "imageurl": "/부산여행.png"
+    },
+    {
+        "id": 4,
+        "title": "경주 여행",
+        "imageurl": "/경주여행.jpg"
     }
 ]
